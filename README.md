@@ -86,7 +86,7 @@ python real_time_recognition.py
 - `train_model.py`: Script for training the ResNet50 model.
 - `evaluate_model.py`: Script for evaluating the trained model.
 - `real_time_recognition.py`: Script for real-time face recognition using a webcam.
-- `archive/`: Directory containing the VGGFace2 dataset.
+- `archive/`: Example directory containing the VGGFace2 dataset.
 
 ## Results
 
