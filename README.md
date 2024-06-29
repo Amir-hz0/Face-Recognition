@@ -25,7 +25,6 @@ The following tools and libraries are used in this project:
 - Python
 - PyTorch
 - OpenCV
-- Dlib
 - TensorFlow
 
 ### Methods
