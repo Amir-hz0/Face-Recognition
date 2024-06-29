@@ -13,7 +13,7 @@ Face recognition is a crucial application in computer vision with significant im
 ## Materials and Methods
 
 ### Dataset
-First Download VggFace2 dataset via Kaggle.com Then run this file "Dataset Preparation" to divide dataset for you.
+First Download VggFace2 dataset via Kaggle.com Then run this file "Dataset Preparation.py" to divide dataset for you.
 The VGGFace2 dataset is used for training, validation, and testing. The dataset is divided into three subsets:
 - Training (70%)
 - Validation (20%)
