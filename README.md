@@ -1,4 +1,3 @@
-بله، می‌توانم یک فایل `README.md` برای پروژه شما ایجاد کنم. در ادامه، محتوای فایل را مشاهده می‌کنید:
 # Face Recognition using VGGFace2 and ResNet50
 
 This project implements face recognition using the VGGFace2 dataset and ResNet50 model. The project includes dataset preparation, training, validation, and real-time face recognition using a webcam.
@@ -103,4 +102,3 @@ This project demonstrates the effectiveness of deep learning models, specificall
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-این فایل `README.md` تمامی اطلاعات مورد نیاز برای توضیح پروژه شما، نحوه اجرای کدها و نتایج حاصل را شامل می‌شود. می‌توانید این فایل را در ریشه پروژه خود قرار داده و به همراه کدهایتان در گیت‌هاب آپلود کنید.
